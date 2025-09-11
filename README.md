@@ -40,7 +40,8 @@ Complete [switch_mode.py](/switch_mode.py) and use a button to switch an LED's w
 ### 2 (10%) Circuit Picture
 Upload a picture of your actual circuit and display it below 👇
 
-![wiring_pic](wiring.png)
+![281](https://github.com/user-attachments/assets/e174dbe0-acef-4122-ac06-92aea3f3719d)
+
 
 > [!WARNING]
 > The circuit picture has to be clear about Pico's GPIO pins connection with the LED and the button.
