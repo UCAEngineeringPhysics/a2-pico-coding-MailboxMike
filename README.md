@@ -56,7 +56,7 @@ Please write out the equation of the duty cycle's **increment** value, $s$, belo
 
 > Type equation with LaTex syntax here.
 >
->  $s = \frac{D_{\text{max}}}{T}$
+>  $s = \frac{D_{\text{max}}}{nT}$
 
 > [!TIP]
 > - Writing mathematical expressions [guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
